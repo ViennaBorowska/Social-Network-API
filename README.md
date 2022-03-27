@@ -47,6 +47,10 @@ to sync the Mongoose models to the MongoDB database. You can then navigate to an
 
 Once the above installation steps have been completed, the database can be used. Please see below walkthrough video demonstration.
 
+<img src="assets/Social-Network-API-Demo.gif" alt="Demonstration video of how the database can be initialised and managed.">
+
+This video is also available to download in Google Drive [here](https://drive.google.com/file/d/17UChkRXa_cD4G2u65bW0h-1LwJWlUDuv/view?usp=sharing)
+
 ## License
 
 This project is licensed under MIT
